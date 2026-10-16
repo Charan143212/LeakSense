@@ -10,6 +10,16 @@ Enterprise retail and e-commerce organizations routinely lose hundreds of thousa
 **LeakSense** is a production-ready, interactive web application built to detect, quantify, and resolve revenue leaks in real-time. Moving beyond traditional static reporting, LeakSense combines unsupervised machine learning with an automated **Prescriptive Executive Playbook** to turn statistical alerts into immediate business action.
 
 ---
+## 📸 Dashboard & Product Previews
+
+### **1. Executive Dashboard Overview**
+![Executive Dashboard](assets/Dashboard.png)
+
+### **2. Multi-Dataset Visual Analytics**
+![Visual Analytics](assets/analysis.png)
+
+### **3. Prescriptive Executive Playbook & Audit Export**
+![Prescriptive Playbook](assets/playbook.png)
 
 ## 📊 Dataset Ecosystem (Full Relational Integration)
 LeakSense bridges 5 core relational enterprise datasets to create a comprehensive multi-dimensional view of business operations:
