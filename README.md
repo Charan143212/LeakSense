@@ -66,5 +66,7 @@ Because retail anomaly detection deals with unlabeled historical data, we benchm
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/leaksense.git](https://github.com/your-username/leaksense.git)
-   cd leaksense
+   1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/Charan143212/LeakSense.git](https://github.com/Charan143212/LeakSense.git)
+   cd LeakSense
